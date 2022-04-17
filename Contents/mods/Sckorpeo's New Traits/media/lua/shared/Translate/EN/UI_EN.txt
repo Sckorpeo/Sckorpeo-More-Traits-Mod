@@ -1,0 +1,4 @@
+UI_EN = {
+    UI_trait_growthmarketing = "Growth Marketing",
+    UI_trait_growthmarketingdesc = "Very good at acquiring users.<br>+2 Fishing",
+}
